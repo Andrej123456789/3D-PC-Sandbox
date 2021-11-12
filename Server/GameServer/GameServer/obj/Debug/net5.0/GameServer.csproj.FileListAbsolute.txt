@@ -1,0 +1,16 @@
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.exe
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.deps.json
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.json
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.dev.json
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\ref\GameServer.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\bin\Debug\net5.0\GameServer.pdb
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.AssemblyReference.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfoInputs.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfo.cs
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.CoreCompileInputs.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\ref\GameServer.dll
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.pdb
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.genruntimeconfig.cache
