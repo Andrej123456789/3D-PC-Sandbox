@@ -1,0 +1,26 @@
+********WelcomeDiscordChannel********* (https://discord.gg/A6F3a65)  
+ ***********Website & Support************ (https://www.artstation.com/aleksey8310)  
+ ***************Facebook***************** (https://www.facebook.com/ALP8310/)  
+5 square textures 
+ 
+Textures included: 
+Diffuse,Normal 
+ 
+-2 BigUV Green Grass(Resolution 8192x8192) 
+-1 GroundCracked(Resolution 2048x2048) 
+-1 GroundDryLeaves(Resolution 4096x4096) 
+-1 GroundStones(Resolution 4096x4096) 
+Demo Scene For Review 
+ 
+ 
+Check out my other assets: 
+Rustic Environment (https://assetstore.unity.com/packages/3d/environments/urban/rustic-environment-185320) 
+Realistic Grass Flowers Pack (https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-grass-flowers-pack-191866) 
+Nature Package - Forest Environment (https://assetstore.unity.com/packages/3d/vegetation/nature-package-forest-environment-165645) 
+Nature Package - Swamp,Forest Environment (https://assetstore.unity.com/packages/3d/vegetation/nature-package-swamp-forest-environment-159098) 
+Birch Forest Environment (https://assetstore.unity.com/packages/3d/vegetation/birch-forest-environment-155112) 
+Spruce Trees Pack (https://assetstore.unity.com/packages/3d/vegetation/pine-trees-pack-154842) 
+2in1 Birch,Spruce Pack (https://assetstore.unity.com/packages/3d/vegetation/2in1-birch-pine-pack-156340) 
+Oak Forest Environment (https://assetstore.unity.com/packages/3d/vegetation/oak-forest-environment-153314) 
+European Vegetation Pack One (https://assetstore.unity.com/packages/3d/vegetation/trees/european-vegetation-pack-one-124205) 
+European Vegetation Pack Two (https://assetstore.unity.com/packages/3d/vegetation/european-vegetation-pack-two-151939) 

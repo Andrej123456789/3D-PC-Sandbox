@@ -14,3 +14,19 @@ E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D P
 E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\ref\GameServer.dll
 E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.pdb
 E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\3D PC Sandbox server\GameServer\GameServer\obj\Debug\net5.0\GameServer.genruntimeconfig.cache
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.exe
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.deps.json
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.json
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.runtimeconfig.dev.json
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.dll
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\ref\GameServer.dll
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\bin\Debug\net5.0\GameServer.pdb
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.AssemblyReference.cache
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.AssemblyInfo.cs
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.dll
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\ref\GameServer.dll
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.pdb
+C:\Users\vangu\Documents\GitHub\3D-PC-Sandbox\Server\GameServer\GameServer\obj\Debug\net5.0\GameServer.genruntimeconfig.cache
