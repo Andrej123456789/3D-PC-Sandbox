@@ -5,8 +5,7 @@ GitHub repo for 3D PC Sandbox game made in Unity
 If you want simply run game, donwload installer and install game.
 
 If you want to compile it follow these steps:
-
-1. Open Unity project
+1. Open project in Unity
 2. Compile & Run
 
 Thank you for choosing 3D PC SANDBOX
